@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+Pillow
+opencv-python
+ultralytics
+transformers
+torch
